@@ -6,7 +6,7 @@ Saida Auriane Sanon
 
 ---
 
-**University of Manitoba** 
+**University of Manitoba**   
 _September 2020 – Present_
 
 - Faculty of Science, majoring in Computer Science
