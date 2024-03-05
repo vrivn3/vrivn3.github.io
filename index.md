@@ -7,12 +7,12 @@ Saida Auriane Sanon
 ---
 
 **University of Manitoba**  
-September 2020 – Present
+_September 2020 – Present_
 
 - Faculty of Science, majoring in Computer Science
 
 **University of Manitoba,English Language Center**
-January-April 2020
+_January - April 2020_
 
 ### WORK EXPERIENCE
 
