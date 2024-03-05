@@ -36,10 +36,10 @@ GitHub is a widely-used platform for developers to collaborate and manage projec
 By following these steps, you've successfully created an account on GitHub and created a dedicated repository to host your resume.
 
 ---
-# More resources
+## More resources
 - include markdown tiuto and 3 other resources
 
-# Authors and Acknowledgements: Credit template authors and group members
+## Authors and Acknowledgements: Credit template authors and group members
 
 # FAQs
 A question about the overall process, such as "Why is Markdown better than a word processor?"  
