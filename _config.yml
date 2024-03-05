@@ -1,4 +1,5 @@
 title: "Saida Sanon"
 description: "Welcome to my resume page!"
-theme: jekyll-theme-hacker
+remote_theme: mmistakes/minimal-mistakes
+
 
