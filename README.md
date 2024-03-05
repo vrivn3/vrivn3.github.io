@@ -1,3 +1,5 @@
+# Hosting a resume online using Github
+
 GitHub is a widely-used platform for developers to collaborate and manage projects. It's also a useful tool for hosting resumes online, providing professionals with improved visibility and control over their resumes. In this guide, we'll outline the simple steps to host a resume on GitHub, enabling individuals to effectively showcase their skills and experience.
 
 ### Creating an Account and Repository on Github
