@@ -1,6 +1,7 @@
 Saida Auriane Sanon  
 (204) 881-3347 ● saidasanon@gmail.com  
-[www.linkedin.com/in/saidasanon](www.linkedin.com/in/saidasanon)
+[LinkedIn](https://www.linkedin.com/in/saidasanon/)
+
 
 ### EDUCATION
 
