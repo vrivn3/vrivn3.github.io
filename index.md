@@ -26,7 +26,7 @@ _February 2024 - Present_
 - Communicate effectively with the instructor and other graders to coordinate grading tasks.
 
 **Pointe Aux Jeunes**, Animator  
-_July 2023-August 2023/May 2022-August 2022_
+_July 2023 - August 2023/May 2022 - August 2022_
 
 - Promoted and took part in the set up and the promotion of different events.
 - Assisted and advised teenagers in various setting of their life.
