@@ -1,5 +1,5 @@
-Saida Auriane Sanon
-(204) 881-3347 ● saidasanon@gmail.com
+Saida Auriane Sanon  
+(204) 881-3347 ● saidasanon@gmail.com  
 [www.linkedin.com/in/saidasanon](www.linkedin.com/in/saidasanon)
 
 ### EDUCATION
@@ -45,9 +45,9 @@ _September 2022-Present_
 **CanU Canada**, Instructor  
 _September2022 - December2022_
 
-- Teach web development to elementary school students.
-- Present the basics of HTML and CSS.
-- Introduce student to good coding practice.
+- Teached web development to elementary school students.
+- Presented the basics of HTML and CSS.
+- Introduced students to good coding practice.
 
 ### ADDITIONAL INFORMATION
 
