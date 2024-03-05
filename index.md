@@ -31,8 +31,7 @@ _July 2023 - August 2023/May 2022 - August 2022_
 - Assisted and advised teenagers in various setting of their life.
 - Responded to inquiries by phone and email in a timely and professional manner.
 
-### VOLUNTEER EXPERIENCE
-
+### VOLUNTEER EXPERIENCE  
 ---
 
 **Let’s Talk Science**, Facilitator  
