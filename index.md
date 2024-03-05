@@ -11,7 +11,7 @@ _September 2020 – Present_
 
 - Faculty of Science, majoring in Computer Science
 
-**University of Manitoba,English Language Center**
+**University of Manitoba,English Language Center**  
 _January - April 2020_
 
 ### WORK EXPERIENCE
