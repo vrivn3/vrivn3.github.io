@@ -18,7 +18,7 @@ _January - April 2020_
 
 ---
 
-**University of Manitoba,Faculty of Computer Science**, Grader
+**University of Manitoba,Faculty of Computer Science**, Grader  
 _February 2024 - Present_
 - Assist in grading assignments, quizzes, and exams according to established criteria.
 - Provide constructive feedback to students on their work to help them improve.
@@ -35,7 +35,7 @@ _July 2023 - August 2023/May 2022 - August 2022_
 
 ---
 
-**Let’s Talk Science**, Facilitator
+**Let’s Talk Science**, Facilitator  
 _September 2022-Present_
 
 - Present workshop on science for elementary school students.
