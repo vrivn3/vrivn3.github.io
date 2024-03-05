@@ -16,4 +16,4 @@ GitHub is a widely-used platform for developers to collaborate and manage projec
    - Ensure the repository is set to **Public** to make it accessible to anyone.
    - Confirm your selections by clicking on **"Create Repository"** at the bottom of the page.
 
-By following these steps, you've successfully established your presence on GitHub and created a dedicated repository to host your resume.
+By following these steps, you've successfully created an account on GitHub and created a dedicated repository to host your resume.
