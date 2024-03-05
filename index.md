@@ -35,7 +35,7 @@ _July 2023 - August 2023/May 2022 - August 2022_
 ---
 
 **Let’s Talk Science**, Facilitator  
-_September 2022-Present_
+_September 2022 - Present_
 
 - Present workshop on science for elementary school students.
 - Represent Let’s Talk Science on volunteering fair.
