@@ -99,7 +99,7 @@ To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static
 
 By following these steps, your resume will have a professional and visually appealing appearance and will be hosted on you own static website.
 
-![Animated GIF]([https://drive.google.com/file/d/1y1Hufw5L73cDXq8t8xnPoJ1O40PjGLJJ/view?usp=drive_link](https://drive.google.com/file/d/1y1Hufw5L73cDXq8t8xnPoJ1O40PjGLJJ/view?usp=sharing))
+![Animated GIF](https://drive.google.com/file/d/1y1Hufw5L73cDXq8t8xnPoJ1O40PjGLJJ/view?usp=sharing)
 ---
 
 ## More ressources
