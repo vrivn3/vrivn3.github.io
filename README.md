@@ -2,6 +2,7 @@
 The purpose of this README is to provide a comprehensive guide on how to effectively host a resume online.
 It aims to walk you through the process of hosting your resume on platforms like GitHub, allowing you to create a static website where your resume can be easily accessed and viewed by others
 
+![Animated GIF](https://github.com/vrivn3/vrivn3.github.io/blob/main/Gif.gif)
 ## Instructions
 ---
 ### Formating a resume using Markdown; a lightweight markup language
@@ -99,7 +100,7 @@ To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static
 
 By following these steps, your resume will have a professional and visually appealing appearance and will be hosted on you own static website.
 
-![Animated GIF](https://github.com/vrivn3/vrivn3.github.io/blob/main/Gif.gif)
+
 ![](https://drive.google.com/file/d/1y1Hufw5L73cDXq8t8xnPoJ1O40PjGLJJ/view?usp=sharing)
 ---
 
