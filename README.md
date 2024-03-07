@@ -116,5 +116,14 @@ By following these steps, your resume will have a professional and visually appe
 - Learn why and how to make a README [here](https://www.makeareadme.com/).
 
 ## FAQs (Frequently Asked Questions)
-- Can anyone see my resume hosted on the static website?
-     Yes, everyone can see your resume as long as your repository visibility on Github is set to **public**.
+
+### Why is my resume not showing up?
+If your resume is not displaying on the static website, make sure that:
+- Your repository name is the same as your username.
+- Your repository visibility is set to public.
+
+### Why is Markdown better than a word processor?
+Markdown offers simplicity and portability compared to traditional word processing software like Microsoft Word. With Markdown, formatting is done using plain text, making it straightforward to learn and use. Additionally, Markdown files are lightweight and can be opened and edited on any operating system with any text editor, ensuring compatibility across different devices and software. This simplicity and portability make Markdown an efficient choice for creating and managing documents, particularly in collaborative and cross-platform environments.
+
+
+
