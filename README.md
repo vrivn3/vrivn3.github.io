@@ -1,4 +1,4 @@
-# How to Host a resume online.
+# How to Host a resume online
 The purpose of this README is to provide a comprehensive guide on how to effectively host a resume online.
 It aims to walk you through the process of hosting your resume on platforms like GitHub, allowing you to create a static website where your resume can be easily accessed and viewed by others
 
