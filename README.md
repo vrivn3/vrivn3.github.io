@@ -10,9 +10,9 @@ To format a resume, it's essential to adhere to Andrew Etter's recommendations. 
 
 Here we will be using **visual code studio** as a text editor. Follow the steps bellow
 
-1. **Choose a Text Editor**: Select a text editor of your choice such as Notepad (Windows), TextEdit (Mac), or Visual Studio Code. Ensure it supports Markdown syntax highlighting for easier editing. Tutorial to install the text editor can be found [here](## More ressources).
+1. **Choose a Text Editor**: Select a text editor of your choice such as Notepad (Windows), TextEdit (Mac), or Visual Studio Code. Ensure it supports Markdown syntax highlighting for easier editing. Tutorial to install the text editor can be found [here](#more-resources).
 
-2. **Create a New Markdown File**: Open your chosen text editor and create a new file. Save it with a meaningful name like `resume.md`.Find a markdown tutorial [here](## More ressources).
+2. **Create a New Markdown File**: Open your chosen text editor and create a new file. Save it with a meaningful name like `resume.md`.Find a markdown tutorial [here](#more-resources).
 
 3. **Edit Your Resume Content**: Begin writing your resume content using Markdown syntax within the text editor. You can include headings, bullet points, lists, and other formatting options as needed.
 
