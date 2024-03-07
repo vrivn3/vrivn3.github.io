@@ -1,24 +1,28 @@
-# Hosting a resume online using Github
+### Formating a resume using Markdown; a lightweight markup language
 
-## Formatting the resume 
-Prerequisites: This should include a resume formatted in Markdown
+To format a resume, it's essential to adhere to Andrew Etter's recommendations. This involves choosing a lightweight markup language such as **Markdown**, which offers simplicity and ease of use. When writing content, focus on employing simple syntax and conventions to ensure readability and ease of writing. Additionally, utilize tools that support the markup language for editing and rendering, enhancing the overall document creation process
 
-Include a link to a good Markdown tutorial under "More Resources." You do not need to explain how to use Markdown.
-Instructions, including animated gif
+Here we will be using  **visual code studio** as a text editor. Follow the steps bellow
 
-Use headings and numbered lists
-Remember to use each step to explain both how to follow the tools and model Etter recommends and how to host a resume in GitHub Pages or Codeberg Pages. It's up to you whether you
-1) begin with Etter's general process and then demonstrate the process with a practical step involving your resume, or
-2) 2) begin with the practical steps for hosting a resume and relate each practical step to a concept in Etter's book.
-Add an animated gif: Include a demo using an animated gif in your README. The gif should feature your own resume (showing your own name).
+1. **Choose a Text Editor**: Select a text editor of your choice such as Notepad (Windows), TextEdit (Mac), or Visual Studio Code. Ensure it supports Markdown syntax highlighting for easier editing.
 
-More Resources: Include a Markdown tutorial and at least three other resources
+2. **Create a New Markdown File**: Open your chosen text editor and create a new file. Save it with a meaningful name like `resume.md`.
 
-## Hosting a resume online
+3. **Edit Your Resume Content**: Begin writing your resume content using Markdown syntax within the text editor. You can include headings, bullet points, lists, and other formatting options as needed.
 
-GitHub is a widely-used platform for developers to collaborate and manage projects. It's also a useful tool for hosting resumes online, providing professionals with improved visibility and control over their resumes. In this guide, we'll outline the simple steps to host a resume on GitHub, enabling individuals to effectively showcase their skills and experience.
+4. **Save Your Changes**: Save the changes to your Markdown file.
+
+5. **Before Uploading to GitHub Pages**:
+   - Before uploading it to GitHub Pages, make sure to rename the file to `index.md` for it to be displayed as the main page of your website.
+  
+You now have a formatted resume ready to be shared or published on platforms like GitHub.
+
+## Share/host resume on Github; a distributed version control system
+To follow Andrew Etter's advice, use Github, a distributed version control system. Create a repository on GitHub to organize your files. Regularly commit changes to track revisions and collaborate.
 
 ### Creating an Account and Repository on Github
+
+**GitHub** is a widely-used platform for developers to collaborate and manage projects. It's also a useful tool for hosting resumes online, providing professionals with improved visibility and control over their resumes. In this guide, we'll outline the simple steps to host a resume on GitHub. 
 
 1. **Go to the GitHub website**: Begin by navigating to the GitHub website. Click [here](https://github.com/) to access the platform.
 
@@ -36,7 +40,6 @@ GitHub is a widely-used platform for developers to collaborate and manage projec
 
 By following these steps, you've successfully established your presence on GitHub and created a dedicated repository to host your resume.
 
----
 ### Uploading Your Resume
 
 1. **Accessing Your Repository**:
@@ -66,10 +69,9 @@ By following these steps, you've successfully established your presence on GitHu
 
 By following these steps, your resume is successfully uploaded to your GitHub repository.
 
-### Formatting a Document Using Jekyll (a Static Site Generator)
+### Formating the resume with Jekyll; a static site generator
 
----
-To format the resume and give it a nice appearance, we will be using **Jekyll**, a static site generator included in GitHub. This works by adding a **\_config.yml** file that will contain our desired theme for formatting the resume.
+To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static site generator (SSG).  We wil be able to customize Jekyll with a theme or adjust its settings according to our preferences. Organize our content into pages or sections within Jekyll for clarity.This works by adding a **\_config.yml** file that will contain our desired theme for formatting the resume.
 
 1. **Creating the Configuration File**:
 
@@ -89,14 +91,3 @@ To format the resume and give it a nice appearance, we will be using **Jekyll**,
    - This page will display your resume formatted with your chosen Jekyll theme.
 
 By following these steps, your resume will have a professional and visually appealing appearance and will be hosted on you own static website.
-
----
-## More resources
-- include markdown tiuto and 3 other resources
-
-## Authors and Acknowledgements: Credit template authors and group members
-
-# FAQs
-A question about the overall process, such as "Why is Markdown better than a word processor?"  
-A question about the practical details, such as "Why is my resume not showing up?"  
-You may use the example FAQs, or come up with your own.
