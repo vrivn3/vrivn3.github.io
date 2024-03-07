@@ -1,4 +1,4 @@
-### Formating a resume using Markdown; a lightweight markup language
+## Formating a resume using Markdown; a lightweight markup language
 
 To format a resume, it's essential to adhere to Andrew Etter's recommendations. This involves choosing a lightweight markup language such as **Markdown**, which offers simplicity and ease of use. When writing content, focus on employing simple syntax and conventions to ensure readability and ease of writing. Additionally, utilize tools that support the markup language for editing and rendering, enhancing the overall document creation process
 
@@ -69,7 +69,7 @@ By following these steps, you've successfully established your presence on GitHu
 
 By following these steps, your resume is successfully uploaded to your GitHub repository.
 
-### Formating the resume with Jekyll; a static site generator
+## Formating the resume with Jekyll; a static site generator
 
 To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static site generator (SSG).  We wil be able to customize Jekyll with a theme or adjust its settings according to our preferences. Organize our content into pages or sections within Jekyll for clarity.This works by adding a **\_config.yml** file that will contain our desired theme for formatting the resume.
 
