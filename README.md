@@ -1,24 +1,18 @@
-# Hosting a resume  Online
+# How to Host a resume online.
 The purpose of this README is to provide a comprehensive guide on how to effectively host a resume online.
 It aims to walk you through the process of hosting your resume on platforms like GitHub, allowing you to create a static website where your resume can be easily accessed and viewed by others
 
-### Prerequisites:
-- A Resume.
-- A github account
-- A text editor (view ressources).
-
 ## Instructions
-
 ---
- ## Formating a resume using Markdown; a lightweight markup language
+### Formating a resume using Markdown; a lightweight markup language
 
 To format a resume, it's essential to adhere to Andrew Etter's recommendations. This involves choosing a lightweight markup language such as **Markdown**, which offers simplicity and ease of use. When writing content, focus on employing simple syntax and conventions to ensure readability and ease of writing. Additionally, utilize tools that support the markup language for editing and rendering, enhancing the overall document creation process
 
-Here we will be using  **visual code studio** as a text editor. Follow the steps bellow
+Here we will be using **visual code studio** as a text editor. Follow the steps bellow
 
-1. **Choose a Text Editor**: Select a text editor of your choice such as Notepad (Windows), TextEdit (Mac), or Visual Studio Code. Ensure it supports Markdown syntax highlighting for easier editing.
+1. **Choose a Text Editor**: Select a text editor of your choice such as Notepad (Windows), TextEdit (Mac), or Visual Studio Code. Ensure it supports Markdown syntax highlighting for easier editing. Tutorial to install the text editor can be found [here][## More ressources].
 
-2. **Create a New Markdown File**: Open your chosen text editor and create a new file. Save it with a meaningful name like `resume.md`.
+2. **Create a New Markdown File**: Open your chosen text editor and create a new file. Save it with a meaningful name like `resume.md`.Find a markdown tutorial [here][## More ressources].
 
 3. **Edit Your Resume Content**: Begin writing your resume content using Markdown syntax within the text editor. You can include headings, bullet points, lists, and other formatting options as needed.
 
@@ -26,15 +20,16 @@ Here we will be using  **visual code studio** as a text editor. Follow the steps
 
 5. **Before Uploading to GitHub Pages**:
    - Before uploading it to GitHub Pages, make sure to rename the file to `index.md` for it to be displayed as the main page of your website.
-  
+
 You now have a formatted resume ready to be shared or published on platforms like GitHub.
 
 ## Share/host resume on Github; a distributed version control system
+
 To follow Andrew Etter's advice, use Github, a distributed version control system. Create a repository on GitHub to organize your files. Regularly commit changes to track revisions and collaborate.
 
 ### Creating an Account and Repository on Github
 
-**GitHub** is a widely-used platform for developers to collaborate and manage projects. It's also a useful tool for hosting resumes online, providing professionals with improved visibility and control over their resumes. In this guide, we'll outline the simple steps to host a resume on GitHub. 
+**GitHub** is a widely-used platform for developers to collaborate and manage projects. It's also a useful tool for hosting resumes online, providing professionals with improved visibility and control over their resumes. In this guide, we'll outline the simple steps to host a resume on GitHub.
 
 1. **Go to the GitHub website**: Begin by navigating to the GitHub website. Click [here](https://github.com/) to access the platform.
 
@@ -81,9 +76,9 @@ By following these steps, you've successfully established your presence on GitHu
 
 By following these steps, your resume is successfully uploaded to your GitHub repository.
 
-## Formating the resume with Jekyll; a static site generator
+### Formating the resume with Jekyll; a static site generator
 
-To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static site generator (SSG).  We wil be able to customize Jekyll with a theme or adjust its settings according to our preferences. Organize our content into pages or sections within Jekyll for clarity.This works by adding a **\_config.yml** file that will contain our desired theme for formatting the resume.
+To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static site generator (SSG). We wil be able to customize Jekyll with a theme or adjust its settings according to our preferences. Organize our content into pages or sections within Jekyll for clarity.This works by adding a **\_config.yml** file that will contain our desired theme for formatting the resume.
 
 1. **Creating the Configuration File**:
 
@@ -103,3 +98,14 @@ To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static
    - This page will display your resume formatted with your chosen Jekyll theme.
 
 By following these steps, your resume will have a professional and visually appealing appearance and will be hosted on you own static website.
+
+---
+
+## More ressources
+
+-
+- Markdown tutotial [here](https://www.markdowntutorial.com/)
+- Installing [Visual code studio](https://code.visualstudio.com/download), a text editor supporting markdown
+- Explore Jekyll themes on Github pages [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+- Find how to make a GIF [here](https://sproutsocial.com/insights/how-to-make-a-gif/).
+- Learn why and how to make a README [here](https://www.makeareadme.com/).
