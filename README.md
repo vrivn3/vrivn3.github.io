@@ -68,6 +68,7 @@ By following these steps, your resume is successfully uploaded to your GitHub re
 
 ### Formatting a Document Using Jekyll (a Static Site Generator)
 
+---
 To format the resume and give it a nice appearance, we will be using **Jekyll**, a static site generator included in GitHub. This works by adding a **\_config.yml** file that will contain our desired theme for formatting the resume.
 
 1. **Creating the Configuration File**:
@@ -88,7 +89,6 @@ To format the resume and give it a nice appearance, we will be using **Jekyll**,
    - This page will display your resume formatted with your chosen Jekyll theme.
 
 By following these steps, your resume will have a professional and visually appealing appearance and will be hosted on you own static website.
-
 
 ---
 ## More resources
