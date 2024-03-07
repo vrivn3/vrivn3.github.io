@@ -1,13 +1,18 @@
 # How to Host a resume online
+
 The purpose of this README is to provide a comprehensive guide on how to effectively host a resume online.
 It aims to walk you through the process of hosting your resume on platforms like GitHub, allowing you to create a static website where your resume can be easily accessed and viewed by others
 
 ### Prerequisites
+
 - A resume
 - A text editor
+- A Github account
 
 ## Instructions
+
 ---
+
 ### Formating a resume using Markdown; a lightweight markup language
 
 To format a resume, it's essential to adhere to Andrew Etter's recommendations. This involves choosing a lightweight markup language such as **Markdown**, which offers simplicity and ease of use. When writing content, focus on employing simple syntax and conventions to ensure readability and ease of writing. Additionally, utilize tools that support the markup language for editing and rendering, enhancing the overall document creation process
@@ -33,23 +38,14 @@ To follow Andrew Etter's advice, use Github, a distributed version control syste
 
 _A gif of a resume hosted online using Github and formatted with Jekyll website will be shown at the end of the instructions_
 
-### Creating an Account and Repository on Github
+### Setting up your repository on Github
 
-**GitHub** is a widely-used platform for developers to collaborate and manage projects. It's also a useful tool for hosting resumes online, providing professionals with improved visibility and control over their resumes. In this guide, we'll outline the simple steps to host a resume on GitHub.
-
-1. **Go to the GitHub website**: Begin by navigating to the GitHub website. Click [here](https://github.com/) to access the platform.
-
-2. **Signing up for an Account**: Click on the **"Sign up"** button located at the top right corner of the page to initiate the account creation process.
-
-3. **Creating Your Account**: Follow the on-screen instructions to enter your credentials and finalize the creation of your GitHub account.
-
-4. **Setting Up Your Repository**:
-   - Click on the **"+ (create new)"** sign located at the top right corner of the sidebar on your home account page.
-   - Select **"New repository"** from the options provided.
-   - Enter your GitHub username in the **"Repository name"** field. This username will serve as the repository name, enabling you to create a dedicated space to host your resume on a static website.
-   - Optionally, add a description in the provided **Description** field.
-   - Ensure the repository is set to **Public** to make it accessible to anyone.
-   - Confirm your selections by clicking on **"Create Repository"** at the bottom of the page.
+1.  Click on the **"+ (create new)"** sign located at the top right corner of the sidebar on your home account page.
+2.  Select **"New repository"** from the options provided.
+3.  Enter your GitHub username in the **"Repository name"** field. This username will serve as the repository name, enabling you to create a dedicated space to host your resume on a static website.
+4.  Optionally, add a description in the provided **Description** field.
+5.  Ensure the repository is set to **Public** to make it accessible to anyone.
+6.  Confirm your selections by clicking on **"Create Repository"** at the bottom of the page.
 
 By following these steps, you've successfully established your presence on GitHub and created a dedicated repository to host your resume.
 
@@ -105,35 +101,36 @@ To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static
 
 By following these steps, your resume will have a professional and visually appealing appearance and will be hosted on you own static website.
 
-![](https://github.com/vrivn3/vrivn3.github.io/blob/main/RESUME.gif)
----
+## ![](https://github.com/vrivn3/vrivn3.github.io/blob/main/RESUME.gif)
 
 ## More ressources
+
 - Markdown tutotial [here](https://www.markdowntutorial.com/)
 - Installing [Visual code studio](https://code.visualstudio.com/download), a text editor supporting markdown
 - Explore Jekyll themes on Github pages [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
-- Find how to make a GIF [here](https://sproutsocial.com/insights/how-to-make-a-gif/).
+- Find how to make a GIF [here](https://giphy.com/create/gifmaker).
 - Learn why and how to make a README [here](https://www.makeareadme.com/).
 
 ## Authors and Acknowledgements
 
 ### Authors:
+
 - Saida Sanon
 
 ### Acknowledgements:
+
 - Special thanks to Demessie and Yuze Chan for their valuable contributions and collaboration throughout the project.
 - We acknowledge the Jekyll theme used in this project, provided by [orderedlist](https://github.com/orderedlist).
-
 
 ## FAQs (Frequently Asked Questions)
 
 ### Why is my resume not showing up?
+
 If your resume is not displaying on the static website, make sure that:
+
 - Your repository name is the same as your username.
 - Your repository visibility is set to public.
 
 ### Why is Markdown better than a word processor?
-Markdown offers simplicity and portability compared to traditional word processing software like Microsoft Word. With Markdown, formatting is done using plain text, making it straightforward to learn and use. Additionally, Markdown files are lightweight and can be opened and edited on any operating system with any text editor, ensuring compatibility across different devices and software. This simplicity and portability make Markdown an efficient choice for creating and managing documents, particularly in collaborative and cross-platform environments.
 
-
-
+Markdown offers simplicity and portability compared to traditional word processing software like Microsoft Word. With Markdown, formatting is done using plain text, making it straightforward to learn and use. Additionally, Markdown files are lightweight and can be edited on any operating system with any text editor, ensuring compatibility across different devices and software. This simplicity and portability make Markdown an efficient choice for creating and managing documents, particularly in collaborative and cross-platform environments.
