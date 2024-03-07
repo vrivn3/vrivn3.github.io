@@ -105,7 +105,7 @@ To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static
 
 By following these steps, your resume will have a professional and visually appealing appearance and will be hosted on you own static website.
 
-![Animated GIF](https://github.com/vrivn3/vrivn3.github.io/blob/main/Gif.gif)
+![](https://github.com/vrivn3/vrivn3.github.io/blob/main/RESUME.gif)
 ---
 
 ## More ressources
