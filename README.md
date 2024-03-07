@@ -114,3 +114,7 @@ By following these steps, your resume will have a professional and visually appe
 - Explore Jekyll themes on Github pages [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 - Find how to make a GIF [here](https://sproutsocial.com/insights/how-to-make-a-gif/).
 - Learn why and how to make a README [here](https://www.makeareadme.com/).
+
+## FAQs (Frequently Asked Questions)
+- Can anyone see my resume hosted on the static website?
+     Yes, everyone can see your resume as long as your repository visibility on Github is set to **public**.
