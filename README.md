@@ -2,7 +2,7 @@
 The purpose of this README is to provide a comprehensive guide on how to effectively host a resume online.
 It aims to walk you through the process of hosting your resume on platforms like GitHub, allowing you to create a static website where your resume can be easily accessed and viewed by others
 
-1) ## Formating a resume using Markdown; a lightweight markup language
+ ## Formating a resume using Markdown; a lightweight markup language
 
 To format a resume, it's essential to adhere to Andrew Etter's recommendations. This involves choosing a lightweight markup language such as **Markdown**, which offers simplicity and ease of use. When writing content, focus on employing simple syntax and conventions to ensure readability and ease of writing. Additionally, utilize tools that support the markup language for editing and rendering, enhancing the overall document creation process
 
