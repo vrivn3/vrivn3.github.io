@@ -31,7 +31,7 @@ You now have a formatted resume ready to be shared or published on platforms lik
 
 To follow Andrew Etter's advice, use Github, a distributed version control system. Create a repository on GitHub to organize your files. Regularly commit changes to track revisions and collaborate.
 
-__A gif of a resume hosted on a static website will be shown below__
+__A gif of a resume hosted online using Github and formatted with Jekyll website will be shown [below](![])__
 
 ### Creating an Account and Repository on Github
 
