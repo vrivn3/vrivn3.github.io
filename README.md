@@ -115,6 +115,16 @@ By following these steps, your resume will have a professional and visually appe
 - Find how to make a GIF [here](https://sproutsocial.com/insights/how-to-make-a-gif/).
 - Learn why and how to make a README [here](https://www.makeareadme.com/).
 
+## Authors and Acknowledgements
+
+### Authors:
+- Saida Sanon
+
+### Acknowledgements:
+- Special thanks to Demessie and Yuze Chan for their valuable contributions and collaboration throughout the project.
+- We acknowledge the Jekyll theme used in this project, provided by [orderedlist](https://github.com/orderedlist).
+
+
 ## FAQs (Frequently Asked Questions)
 
 ### Why is my resume not showing up?
