@@ -5,8 +5,8 @@ It aims to walk you through the process of hosting your resume on platforms like
 
 ### Prerequisites
 
-- A resume
-- A text editor
+- A resume formatted using [Markdown](#more-ressources).
+- [A text editor](#more-ressources)
 - [A Github account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 
 ## Instructions
