@@ -7,7 +7,7 @@ It aims to walk you through the process of hosting your resume on platforms like
 
 - A resume
 - A text editor
-- A Github account
+- [A Github account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 
 ## Instructions
 
