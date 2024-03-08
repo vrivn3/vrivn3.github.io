@@ -1,4 +1,4 @@
-# How to Host a resume online
+# How to host a resume online using Andrew Etter Modern Technical Writing principles
 
 The purpose of this README is to provide a comprehensive guide on how to effectively host a resume online.
 It aims to walk you through the process of hosting your resume on platforms like GitHub, allowing you to create a static website where your resume can be easily accessed and viewed by others
@@ -32,7 +32,7 @@ Here we will be using **visual code studio** as a text editor. Follow the steps 
 
 You now have a formatted resume ready to be shared or published on platforms like GitHub.
 
-## Share/host resume on Github; a distributed version control system
+## Share/host resume on Github pages; a distributed version control system
 
 To follow Andrew Etter's advice, use Github, a distributed version control system. Create a repository on GitHub to organize your files. Regularly commit changes to track revisions and collaborate.
 
@@ -57,7 +57,7 @@ By following these steps, you've successfully established your presence on GitHu
 
 2. **Initiating Upload**:
 
-   - locate and click on the **"+"** icon near the green "Code" button. From the dropdown menu, choose **"Upload files"**.
+   - locate and click on the **"Add file"** icon near the green "Code" button. From the dropdown menu, choose **"Upload files"**.
 
 3. **Adding Your Resume**:
 
@@ -84,13 +84,13 @@ To implement Andrew Etter's advice,we will be choosing **Jekyll** as your static
 
 1. **Creating the Configuration File**:
 
-   - Click on the **"+"** located near the green "Code" button.
+   - Click on the **"Add file"** located near the green "Code" button.
    - Select **"Create new file"** from the dropdown menu.
    - Name the file **\_config.yml**.
 
 2. **Configuring the Theme**:
 
-   - In the newly created \_config.yml file, type in: `theme: jekyll-theme-THEME-NAME`, replacing "THEME-NAME" with the name of the Jekyll theme you'd like to use.
+   - In the newly created **\_config.yml** file, type in: `theme: jekyll-theme-THEME-NAME`, replacing "THEME-NAME" with the name of the Jekyll theme you'd like to use.
    - Supported Jekyll themes can be found [here](https://pages.github.com/themes/).
    - Click on **"Commit changes"** to save the \_config.yml file.
    - GitHub will take some time to apply the selected theme to your resume.
@@ -119,7 +119,7 @@ By following these steps, your resume will have a professional and visually appe
 
 ### Acknowledgements:
 
-- Special thanks to Demessie and Yuze Chan for their valuable contributions and collaboration throughout the project.
+- Special thanks to Demessie Amede and Yuze Chan for their valuable contributions and collaboration throughout the project.
 - We acknowledge the Jekyll theme used in this project, provided by [orderedlist](https://github.com/orderedlist).
 
 ## FAQs (Frequently Asked Questions)
