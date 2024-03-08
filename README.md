@@ -27,16 +27,16 @@ Here we will be using **visual code studio** as a text editor. Follow the steps 
 
 4. **Save Your Changes**: Save the changes to your Markdown file.
 
-5. **Before Uploading to GitHub Pages**:
-   - Before uploading it to GitHub Pages, make sure to rename the file to `index.md` for it to be displayed as the main page of your website.
+5. **Before Uploading to GitHub**:
+   - Before uploading it to GitHub, make sure to rename the file to `index.md` for it to be displayed as the main page of your website.
 
 You now have a formatted resume ready to be shared or published on platforms like GitHub.
 
-## Share/host resume on Github pages; a distributed version control system
+## Share/host resume on Github Pages; a distributed version control system
 
 To follow Andrew Etter's advice, use Github, a distributed version control system. Create a repository on GitHub to organize your files. Regularly commit changes to track revisions and collaborate.
 
-_A gif of a resume hosted online using Github and formatted with Jekyll website will be shown at the end of the instructions_
+_A gif of a resume hosted online using Github Pages and formatted with Jekyll website will be shown at the end of the instructions_
 
 ### Setting up your repository on Github
 
@@ -107,7 +107,7 @@ By following these steps, your resume will have a professional and visually appe
 
 - Markdown tutotial [here](https://www.markdowntutorial.com/)
 - Installing [Visual code studio](https://code.visualstudio.com/download), a text editor supporting markdown
-- Explore Jekyll themes on Github pages [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+- Explore Jekyll themes supported by Github Pages [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 - Find how to make a GIF [here](https://giphy.com/create/gifmaker).
 - Learn why and how to make a README [here](https://www.makeareadme.com/).
 
