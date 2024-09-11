@@ -35,7 +35,7 @@ Honours and Awards:
 - Designed and fully developed the app’s presentation website using Jekyll, effectively showcasing the app’s features and functionality.
 
 **My Weather Page – [GitHub Repository](https://github.com/vrivn3/Weather-page)**  
-*2023*
+*2022*
 
 - Implemented a user-friendly front-end page to display weather according to cities using HTML/CSS.
 - Developed interactive dialogues to gather user input, utilizing JavaScript.
