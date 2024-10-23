@@ -37,6 +37,7 @@ Microsoft Excel, Object oriented programming, Agile programming, Mobile developm
 - Designed and fully developed the app's presentation website using Jekyll, effectively showcasing the app's features and functionality.
 
 **My Weather Page -** [GitHub repository]([https://github.com/vrivn3/Weather-page]) 
+
 *June - July 2022*
 - Implemented a user-friendly front-end page to display weather according to cities using HTML/CSS.
 - Developed interactive dialogues to gather user input, utilizing JavaScript.
