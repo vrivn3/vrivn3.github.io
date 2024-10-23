@@ -5,13 +5,15 @@
 
 ---
 ## Education
-**University of Manitoba** <div style="float: right">*September 2020 - Present*</div>
-Major in Computer Science, Minor in Mathematics
-Honours and Awards:
+**University of Manitoba** *September 2020 - Present*
+
+**Major in Computer Science, minor in Mathematics**
+
+*Honours and Awards:*
 - University 1 Honour List
 - International Undergraduate Student Scholarship
 
-**Certificate: SheCodes Basic Web Development** <div style="float: right">*August 2022*</div>
+**Certificate: SheCodes Basic Web Development** *August 2022*
 
 ---
 ## Skills
@@ -24,7 +26,8 @@ Microsoft Excel, Object oriented programming, Agile programming, Mobile developm
 
 ---
 ## Projects
-**3350FM – 3350FM' Launch Website** <div style="float: right">*May - August 2024*</div>
+**3350FM -**  Visit the 3350FM' [launch website](https://vrivn3.github.io/3350FMWebsite/)    
+*May - August 2024*
 - Collaborated with a team of 4 to design and develop the 3350FM,a music cataloguing mobile app, using Android Studio, Java, and SQL, following a 3-tier development process.
 - Utilized GitLab for version control, project management, and CI/CD pipelines.
 - Developed key features including song and friend management, filtering, and dynamic search.
@@ -33,26 +36,29 @@ Microsoft Excel, Object oriented programming, Agile programming, Mobile developm
 - Created and maintained the architecture diagram to guide the development process and ensure cohesive integration of components.
 - Designed and fully developed the app's presentation website using Jekyll, effectively showcasing the app's features and functionality.
 
-**My Weather Page - GitHub Repository** <div style="float: right">*June - July 2022*</div>
+**My Weather Page -** [GitHub repository]([https://github.com/vrivn3/Weather-page]) 
+*June - July 2022*
 - Implemented a user-friendly front-end page to display weather according to cities using HTML/CSS.
 - Developed interactive dialogues to gather user input, utilizing JavaScript.
 - Incorporated user interaction to allow change of cities using JavaScript.
 
 ---
 ## Work Experience
-**Grader, Department of Computer Science** <div style="float: right">*January - August 2024*</div>  
-University of Manitoba
+**Grader, Department of Computer Science, University of Manitoba**  
+*January - August 2024*
 - Graded exams and assignments for 1st-year computer science courses, ensuring timely and accurate evaluation of student work.
 - Tested assignments to verify correctness and adherence to course requirements, maintaining high standards of academic quality.
 - Responded to student inquiries regarding assignments, grading, and course material, providing clear and helpful guidance to support their learning.
 
 ---
 ## Volunteer Experience
-**CanU Canada, Instructor** <div style="float: right">*September - December 2022*</div>
+**CanU Canada, Instructor**
+*September - December 2022*
 - Introduced elementary school students to the basics of web development such as HTML and CSS.
 - Explained the importance of good coding practices (commenting code, spacing blocks of code).
 - Collaborated with a group of 4 volunteers to help students with debugging their code.
 
-**Let's Talk Science, Facilitator** <div style="float: right">*September 2022 - April 2024*</div>
-- Work with a team to present workshop on various subject of science in elementary school
-- Translate workshop from French to English
+**Let's Talk Science, Facilitator** 
+*September 2022 - April 2024*
+- Worked in a team to present workshops on various subjects of science in elementary schools
+- Translateed workshop from French to English
