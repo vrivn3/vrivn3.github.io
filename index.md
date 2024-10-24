@@ -36,7 +36,7 @@ Microsoft Excel, Object oriented programming, Agile programming, Mobile developm
 - Created and maintained the architecture diagram to guide the development process and ensure cohesive integration of components.
 - Designed and fully developed the app's presentation website using Jekyll, effectively showcasing the app's features and functionality.
 
-**My Weather Page -** [GitHub repository]([https://github.com/vrivn3/Weather-page]) 
+**My Weather Page -** [GitHub repository]([(https://github.com/vrivn3/Weather-page)]) 
 
 *June - July 2022*
 - Implemented a user-friendly front-end page to display weather according to cities using HTML/CSS.
@@ -53,13 +53,15 @@ Microsoft Excel, Object oriented programming, Agile programming, Mobile developm
 
 ---
 ## Volunteer Experience
-**CanU Canada, Instructor**
+**CanU Canada, Web development Instructor**
+
 *September - December 2022*
 - Introduced elementary school students to the basics of web development such as HTML and CSS.
 - Explained the importance of good coding practices (commenting code, spacing blocks of code).
 - Collaborated with a group of 4 volunteers to help students with debugging their code.
 
-**Let's Talk Science, Facilitator** 
+**Let's Talk Science, Facilitator**
+
 *September 2022 - April 2024*
 - Worked in a team to present workshops on various subjects of science in elementary schools
 - Translateed workshop from French to English
