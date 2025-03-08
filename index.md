@@ -45,6 +45,13 @@ Microsoft Excel, Object oriented programming, Agile programming, Mobile developm
 
 ---
 ## Work Experience
+
+**Teaching assistant, Department of Computer Science, University of Manitoba**  
+*January 2025 - Present*
+- Assist the instructor in preparing and delivering course material.
+- Monitor student group discussions and provide support when needed.
+- Actively participate in meetings with instructors, offering course updates and addressing student concerns
+
 **Grader, Department of Computer Science, University of Manitoba**  
 *January - August 2024*
 - Graded exams and assignments for 1st-year computer science courses, ensuring timely and accurate evaluation of student work.
