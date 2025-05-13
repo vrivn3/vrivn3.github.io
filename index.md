@@ -26,6 +26,16 @@ Microsoft Excel, Object oriented programming, Agile programming, Mobile developm
 
 ---
 ## Projects
+
+**My Gym Wuddy** - [Launch website](https://vrivn3.github.io/GWuddy/) 
+
+*January – May 2025*
+
+- Designed and developed a women-only gym buddy web app in a team of 5, focusing on comfort, safety, and fitness motivation.
+- Implemented core features including user matching based on workout schedule, fitness goals, and preferred gym environment.
+- Conducted field studies and user interviews to inform feature prioritization and interface requirements.
+- Applied HCI principles to ensure an inclusive and intuitive interface for women across different age groups and fitness levels.
+
 **3350FM -**  Visit the 3350FM' [launch website](https://vrivn3.github.io/3350FMWebsite/)    
 *May - August 2024*
 - Collaborated with a team of 4 to design and develop the 3350FM,a music cataloguing mobile app, using Android Studio, Java, and SQL, following a 3-tier development process.
